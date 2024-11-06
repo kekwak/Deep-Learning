@@ -1,10 +1,13 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
+**__pycache__/
 *.py[cod]
 *$py.class
 **.DS_Store
 **wandb/
+**cifar10/
+**model_cnn.pt
 data/*
+**app.py
 
 # C extensions
 *.so
