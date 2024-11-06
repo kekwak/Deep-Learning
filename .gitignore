@@ -8,6 +8,7 @@
 **model_cnn.pt
 data/*
 **app.py
+**classification_model.pth
 
 # C extensions
 *.so
