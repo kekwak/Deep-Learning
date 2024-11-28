@@ -6,9 +6,10 @@
 **wandb/
 **cifar10/
 **model_cnn.pt
-data/*
 **app.py
 **classification_model.pth
+**results/
+data/*
 
 # C extensions
 *.so
