@@ -9,6 +9,7 @@
 **app.py
 **classification_model.pth
 **results/
+**trash/
 data/*
 
 # C extensions
